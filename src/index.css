@@ -1,0 +1,26 @@
+.container {
+    padding: 24px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+margin-top: -80px;
+    margin-left: 10px !important;
+  }
+  
+  .footer {
+    margin-left: 1300px;
+    margin-top: -20px;
+    position: absolute;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: flex-end;
+    padding: 16px 0;
+    background: #fff;
+    border-top: 1px solid #f0f0f0;
+  }
+  
